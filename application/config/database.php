@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'https://bakatminatlifeskills-star.github.io/AVIF-EXAM1/',
 	'username' => 'root',
 	'password' => '',
-	'database' => 'AVIF-EXAM1',
+	'database' => 'https://bakatminatlifeskills-star.github.io/AVIF-EXAM1/',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
